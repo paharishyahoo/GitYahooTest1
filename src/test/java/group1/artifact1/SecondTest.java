@@ -8,5 +8,7 @@ public class SecondTest {
 	public void test3(){
 		System.out.println("From test3....");
 	}
+	
+// Just a comment
 
 }

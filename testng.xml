@@ -7,6 +7,7 @@
   	<classes>
     	<class name = "group1.artifact1.FirstTest" />
     	<class name = "group1.artifact1.SecondTest" />
+    	<class name = "group1.artifact1.ThirdTest" />
     </classes>
   </test> <!-- Test1 -->
 </suite> <!-- Suite -->

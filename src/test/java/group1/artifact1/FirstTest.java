@@ -45,6 +45,11 @@ public class FirstTest {
 		System.out.println("Arg1 is : " + arg1 + " Arg2 is : " + arg2 );
 	}
 	
+	@Test
+	public void anotherTest(){
+		System.out.println("Last test....Added now");
+	}
+	
 	@AfterClass
 	public void afterClass(){
 		System.out.println("From After Class... <FirstTest>");
@@ -60,5 +65,6 @@ public class FirstTest {
 		System.out.println("From After Suite ....");
 	}
 	
+// Just a comment
 
 }
